@@ -1,0 +1,3 @@
+-(void) setDatePickerForTextField:(UITextField *)textfield datePickerMode:(UIDatePickerMode)mode Target:(id)target DoneSelector:(SEL)doneSelector CancelSelector:(SEL)cancelSelector;
+-(NSString *) stringFromDate:(NSDate *)date;
+-(NSString *) timeStringFromDate:(NSDate *)date;
